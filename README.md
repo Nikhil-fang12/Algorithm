@@ -1,2 +1,2 @@
-# Algorithm
-p5 library files
+# p5.play-boilerplate
+Boiler plate for p5.play
